@@ -1,0 +1,21 @@
+{
+  "name": "Vizeb",
+  "short_name": "VZ",
+  "description": "Visual Web App Developer",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#d66b8e",
+  "background_color": "#d66b8e",
+  "icons": [
+    {
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
